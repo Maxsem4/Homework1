@@ -7,7 +7,7 @@ Here at Horiseon we're all about being seen on the web. This is a marketing web 
 * Credits
 * License
 
-### Instalation
+## Instalation
 Here are the steps to install the repository
 1. Clone the repository
 2. Pull the repository to make sure you have the most current version
@@ -15,10 +15,10 @@ Here are the steps to install the repository
 4. Commit your changes and make sure to leave a message of what was done
 5. And finally Push the changes up to GitHub once done
 
-#### Credit 
+## Credit 
 Credits go out to Carlton University Bootcamp for supplying the innitial code for the website. 
 
-##### Licence
+## Licence
 MIT License
 
 Copyright (c) [2020] [Maxime Semegen]
